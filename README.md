@@ -1,2 +1,1 @@
-# Programs-created
-A record of all my programs, as I grow in programming.
+Examples of programs written during during classes and for personal needs.
