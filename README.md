@@ -1,1 +1,1 @@
-Examples of programs written during during classes and for personal needs.
+Examples of programs written during classes and for personal needs.  The works include both C++ and Python programs.
